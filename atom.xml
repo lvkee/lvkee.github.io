@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Violet</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://lvkee.github.io/violet.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://lvkee.github.io/violet.github.io/"/>
   <updated>2021-04-09T03:48:28.297Z</updated>
-  <id>http://example.com/</id>
+  <id>http://lvkee.github.io/violet.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>chrisliu</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown语法</title>
-    <link href="http://example.com/2021/04/08/article-title/"/>
-    <id>http://example.com/2021/04/08/article-title/</id>
+    <link href="http://lvkee.github.io/violet.github.io/2021/04/08/article-title/"/>
+    <id>http://lvkee.github.io/violet.github.io/2021/04/08/article-title/</id>
     <published>2021-04-08T13:25:45.000Z</published>
     <updated>2021-04-09T03:48:28.297Z</updated>
     
@@ -34,17 +34,17 @@
     
     
     
-    <category term="Summary" scheme="http://example.com/categories/Summary/"/>
+    <category term="Summary" scheme="http://lvkee.github.io/violet.github.io/categories/Summary/"/>
     
     
-    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://lvkee.github.io/violet.github.io/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/04/08/hello-world/"/>
-    <id>http://example.com/2021/04/08/hello-world/</id>
+    <link href="http://lvkee.github.io/violet.github.io/2021/04/08/hello-world/"/>
+    <id>http://lvkee.github.io/violet.github.io/2021/04/08/hello-world/</id>
     <published>2021-04-08T13:11:56.034Z</published>
     <updated>2021-04-08T13:11:56.035Z</updated>
     
