@@ -45,6 +45,17 @@
   
   
   <entry>
+    <title>categories</title>
+    <link href="/violet.github.io/"/>
+    <url>/violet.github.io/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>404</title>
     <link href="/violet.github.io/"/>
     <url>/violet.github.io/</url>
@@ -67,17 +78,6 @@
   
   
   <entry>
-    <title>categories</title>
-    <link href="/violet.github.io/"/>
-    <url>/violet.github.io/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>contact</title>
     <link href="/violet.github.io/"/>
     <url>/violet.github.io/</url>
@@ -89,7 +89,7 @@
   
   
   <entry>
-    <title>tags</title>
+    <title>friends</title>
     <link href="/violet.github.io/"/>
     <url>/violet.github.io/</url>
     
@@ -100,7 +100,7 @@
   
   
   <entry>
-    <title>friends</title>
+    <title>tags</title>
     <link href="/violet.github.io/"/>
     <url>/violet.github.io/</url>
     
