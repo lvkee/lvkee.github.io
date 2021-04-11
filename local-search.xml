@@ -43,11 +43,11 @@
   
   
   <entry>
-    <title>about</title>
+    <title>contact</title>
     <link href="/lvkee.github.io/"/>
     <url>/lvkee.github.io/</url>
     
-    <content type="html"><![CDATA[<h3 id="关于作者"><a href="#关于作者" class="headerlink" title="关于作者"></a>关于作者</h3><ul><li>00后，目前就读于<a href="https://hnist.cn/">湖南理工学院</a>软件工程专业💻</li><li>慢慢在养成阅读的习惯，会在博客上分享一些读书感悟📕</li></ul><hr><h3 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h3><ul><li>邮箱：<a href="mailto:chrisliu0810@163.com">chrisliu0810@163.com</a></li></ul>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
   </entry>
   
@@ -65,7 +65,7 @@
   
   
   <entry>
-    <title>contact</title>
+    <title>friends</title>
     <link href="/lvkee.github.io/"/>
     <url>/lvkee.github.io/</url>
     
@@ -76,11 +76,11 @@
   
   
   <entry>
-    <title>friends</title>
+    <title>about</title>
     <link href="/lvkee.github.io/"/>
     <url>/lvkee.github.io/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h3 id="关于作者"><a href="#关于作者" class="headerlink" title="关于作者"></a>关于作者</h3><ul><li>00后，目前就读于<a href="https://hnist.cn/">湖南理工学院</a>软件工程专业💻</li><li>慢慢在养成阅读的习惯，会在博客上分享一些读书感悟📕</li></ul><hr><h3 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h3><ul><li>邮箱：<a href="mailto:chrisliu0810@163.com">chrisliu0810@163.com</a></li></ul>]]></content>
     
   </entry>
   
