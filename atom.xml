@@ -6,7 +6,7 @@
   <link href="http://lvkee.github.io/violet.github.io/atom.xml" rel="self"/>
   
   <link href="http://lvkee.github.io/violet.github.io/"/>
-  <updated>2021-04-09T03:48:28.297Z</updated>
+  <updated>2021-04-11T02:04:22.814Z</updated>
   <id>http://lvkee.github.io/violet.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Markdown语法</title>
     <link href="http://lvkee.github.io/violet.github.io/2021/04/08/article-title/"/>
     <id>http://lvkee.github.io/violet.github.io/2021/04/08/article-title/</id>
-    <published>2021-04-08T13:25:45.000Z</published>
-    <updated>2021-04-09T03:48:28.297Z</updated>
+    <published>2021-04-08T13:25:00.000Z</published>
+    <updated>2021-04-11T02:04:22.814Z</updated>
     
     
       
@@ -34,31 +34,10 @@
     
     
     
-    <category term="Summary" scheme="http://lvkee.github.io/violet.github.io/categories/Summary/"/>
+    <category term="总结" scheme="http://lvkee.github.io/violet.github.io/categories/%E6%80%BB%E7%BB%93/"/>
     
     
     <category term="Markdown" scheme="http://lvkee.github.io/violet.github.io/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://lvkee.github.io/violet.github.io/2021/04/08/hello-world/"/>
-    <id>http://lvkee.github.io/violet.github.io/2021/04/08/hello-world/</id>
-    <published>2021-04-08T13:11:56.034Z</published>
-    <updated>2021-04-08T13:11:56.035Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
