@@ -54,17 +54,6 @@
   
   
   <entry>
-    <title>contact</title>
-    <link href="/violet.github.io/"/>
-    <url>/violet.github.io/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>categories</title>
     <link href="/violet.github.io/"/>
     <url>/violet.github.io/</url>
@@ -88,6 +77,17 @@
   
   <entry>
     <title>tags</title>
+    <link href="/violet.github.io/"/>
+    <url>/violet.github.io/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>contact</title>
     <link href="/violet.github.io/"/>
     <url>/violet.github.io/</url>
     
