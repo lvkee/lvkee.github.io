@@ -130,7 +130,7 @@ dark_mode:
   # 默认的选项（当用户手动切换后则不再按照默认模式），选择 `auto` 会优先遵循 prefers-color-scheme，其次按用户本地时间 18 点到次日 6 点之间进入暗色模式
   # Default option (when the visitor switches manually, the default mode is no longer followed), choosing `auto` will give priority to prefers-color-scheme, and then enter the dark mode from 18:00 to 6:00 in the visitor’s local time
   # Options: auto | light | dark
-  default: auto
+  default: light
 
 # 主题颜色配置，其他不生效的地方请使用自定义 css 解决，配色可以在下方链接中获得启发
 # Theme color, please use custom CSS to solve other colors, color schema can be inspired by the links below
@@ -142,10 +142,12 @@ color:
   # 暗色模式下的 body 背景色，下同
   # Color in dark mode, the same below
   body_bg_color_dark: "#181c27"
+  
 
   # 顶部菜单背景色
   # Color of navigation bar background
   navbar_bg_color: "#2f4154"
+  # navbar_bg_color: "#eee"
   navbar_bg_color_dark: "#1f3144"
 
   # 顶部菜单字体色
@@ -240,7 +242,7 @@ custom_css:
 # 网页访问统计
 # Analysis of website visitors
 web_analytics:  # 网页访问统计
-  enable: false
+  enable: true
 
   # 百度统计的 Key，值需要获取下方链接中 `hm.js?` 后边的字符串
   # Baidu analytics, get the string behind `hm.js?`
@@ -277,8 +279,8 @@ web_analytics:  # 网页访问统计
   # LeanCloud 计数统计，可用于 PV UV 展示，如果 `web_analytics: enable` 没有开启，PV UV 展示只会查询不会增加
   # LeanCloud count statistics, which can be used for PV UV display. If `web_analytics: enable` is false, PV UV display will only query and not increase
   leancloud:
-    app_id:
-    app_key:
+    app_id: jED2EYE6HIUAY1REwITOjznL-gzGzoHsz
+    app_key: 6nWRps2VD4jCjB6eepWyhvKI
     # REST API 服务器地址，国际版不填
     # Only the Chinese mainland users need to set
     server_url:
@@ -418,21 +420,17 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: '
-    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
-    <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
-  '
+  content: 
 
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
   statistics:
-    enable: false
+    enable: true
 
     # 统计数据来源，使用 leancloud 需要设置 `web_analytics: leancloud` 中的参数；使用 busuanzi 不需要额外设置，但是有时不稳定，另外本地运行时 busuanzi 显示统计数据很大属于正常现象，部署后会正常
     # Data source. If use leancloud, you need to set the parameter in `web_analytics: leancloud`
     # Options: busuanzi | leancloud
-    source: "busuanzi"
+    source: "leancloud"
 
   # 国内大陆服务器的备案信息
   # For Chinese mainland website policy, other areas keep disable
@@ -929,7 +927,7 @@ about:
   banner_img: /img/default.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/about/avator.png
+  avatar: /img/about/avatar.png
   name: "阿伟 Chris "
   intro: " coder / reader / listener / writer "
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -983,12 +981,12 @@ links:
   # 友链的成员项
   # Member item of page
   items:
-    - {
-      title: "古台城的窝",
-      intro: "浩神的个人博客",
-      link: "http://gutaicheng.top/",
-      avatar: "http://gutaicheng.top/wp-content/uploads/2021/11/QQ%E5%9B%BE%E7%89%8720211120143840.jpg"
-    }
+    # - {
+    #   title: "古台城的窝",
+    #   intro: "浩神的个人博客",
+    #   link: "http://gutaicheng.top/",
+    #   avatar: "http://gutaicheng.top/wp-content/uploads/2021/11/QQ%E5%9B%BE%E7%89%8720211120143840.jpg"
+    # }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
